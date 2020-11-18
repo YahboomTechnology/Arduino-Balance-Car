@@ -1,6 +1,4 @@
 # Arduino-Balance-Car
-Welcome to the Arduino-Balance-Car wiki!
-# Arduino-Balance-Car wiki
 ![](https://github.com/YahboomTechnology/Arduino-Balance-Car/blob/master/balance_robot.jpg)
 # Introduction
 Self Balance robot is a stable, rugged and durable two-wheel balance vehicle. We optimized the balancer algorithm, and the excellent software algorithm makes Arduino UNO as the core controller of the balance car. The car is a three-layer structure with a load capacity of more than 2KG. We adopt simple and clear modular design, which is suitable for balance car beginners. Arduino UNO board can be taken down easily for secondary development. You can control the car by Android mobile App remote controller connecting with Bluetooth module on the vehicle. This is a multi-functional, autonomous balanced two-wheel vehicle for all types of competitions and research projects.
